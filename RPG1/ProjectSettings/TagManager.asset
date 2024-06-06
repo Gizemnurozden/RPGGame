@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - HitBox
+  - Obstacle
+  - KeyBind
+  - Interactable
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Block
+  - Clickable
+  - Both
+  - Minimap
+  - LineOfSight
+  - Hit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 2609665471
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TopLayer
+    uniqueID: 72212615
+    locked: 0
+  - name: SCT
+    uniqueID: 3852971327
+    locked: 0
+  - name: UI
+    uniqueID: 2874324269
+    locked: 0
